@@ -1,0 +1,17 @@
+/* Seleccionamos el cuerpo de la página y le asignamos un fondo blanco */
+body {
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif; /* Aplicamos la tipografía Roboto */
+    text-align: center; /* Centramos el texto */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el texto del párrafo */
+p {
+    color: red; /* Color rojo para el texto */
+    font-size: 2rem; /* Tamaño de fuente grande */
+    font-weight: 500; /* Negrita moderada */
+    line-height: 1.5; /* Espaciado entre líneas */
+    margin-top: 20vh; /* Colocamos el texto un poco más abajo */
+}
